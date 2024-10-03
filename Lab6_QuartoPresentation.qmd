@@ -4,6 +4,7 @@ author: "Socheata Hour"
 format: revealjs
 editor: visual
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 
 ## Quarto
@@ -25,6 +26,8 @@ When you click the **Render** button a presentation will be generated that inclu
 1 + 1
 ```
 =======
+=======
+>>>>>>> 081f369 (Your commit message)
 bibliography: references.bib
 ---
 
@@ -43,4 +46,29 @@ $V_R \equiv \sum_{i=1}^{n-1} \frac{(I_{SC_i}+I_{SC_{i+1}})(t_i - t_{i+1})}{2(t_n
 $CI_i \equiv 1 - \frac{\bar{x}_i\bar{y}_j}{\bar{x}_{ctrl}\bar{y}_{ctrl}}$
 
 ## References
+<<<<<<< HEAD
 >>>>>>> 16849ba (solve the branch is ahead of 'origin/main' by 1 commit and add the important literature, cool equations, and references)
+=======
+=======
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+>>>>>>> origin/main
+>>>>>>> 081f369 (Your commit message)
